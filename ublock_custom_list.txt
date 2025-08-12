@@ -1,8 +1,13 @@
 ! My custom ublock orinig adblocking list
 
-! 12 sie 2025 https://helltorrents.com
+! https://helltorrents.com
 helltorrents.com###suggcontainer
 
-! 12 sie 2025 https://filman.cc
-||filman.cc/public/dist/images/fundacja_cancer_fighters.jpeg$image
+! https://filman.cc
+
+filman.cc##.mainTitle
+filman.cc##header
+filman.cc###owl-slider > .owl-wrapper-outer
+filman.cc##[href="https://filman.cc/cancerfighters.php"] > .img-responsive
+filman.cc##footer
 filman.cc###kam-ban-player
