@@ -1,12 +1,4 @@
-# Arch
-* Arch
-alhp.sh - Automaticly adds Chaotic-AUR and ALHP (choose between x86_64 v3 and v4) to Arch Linux.
-
-# Podman
-podman_purger.sh - Purge all stopped/unused stuff from podman along with any leftovers.
-
-
-
-# Credits
-Chaotic-AUR site:  https://aur.chaotic.cx/
-ALHP site:         https://somegit.dev/ALHP/ALHP.GO
+# About
+It's just a random repo of my stuff that needs to be 100% online.
+I won't explain in detail what scripts available here do.
+If you want to use them, read them first and udersteand what they do!
