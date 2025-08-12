@@ -1,3 +1,5 @@
+! My custom ublock orinig adblocking list
+
 ! 12 sie 2025 https://helltorrents.com
 helltorrents.com###suggcontainer
 
